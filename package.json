@@ -8,6 +8,7 @@
     "react-dom": "^16.6.0",
     "react-router-dom": "^5.2.1",
     "react-scripts": "2.0.5",
+    "serve": "^14.0.1",
     "surge": "^0.23.1"
   },
   "scripts": {
