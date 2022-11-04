@@ -90,6 +90,8 @@ function LoginForm({ login }) {
                             >
                                 Submit
                             </button>
+                            <p>Recruiters 🙋🏻‍♂️ Both username and password: <b>viewApp</b></p>
+                            
                         </form>
                     </div>
                 </div>
