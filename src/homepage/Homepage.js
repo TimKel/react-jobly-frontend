@@ -37,6 +37,7 @@ const Homepage = () => {
                             </Link>
                         </p>
                     )}
+                    <p>Recruiters: Username and Password is <b>viewApp</b></p>
             </div>
         </div>
     );
